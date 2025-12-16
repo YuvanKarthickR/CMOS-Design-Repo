@@ -29,7 +29,7 @@ The layout represents a basic CMOS inverter structure and is intended for **VLSI
 
 | File Name | Description |
 |----------|-------------|
-| **jas_inverter_layout.mag** | CMOS inverter layout file |
+| **InverterLay_Main_YK.mag** | CMOS inverter layout file |
 
 ---
 
@@ -51,5 +51,5 @@ The layout follows **SCMOS design rules** and implements the standard **CMOS inv
 To open the layout using Magic, run the following command in the terminal:
 
 ```bash
-magic -T scmos jas_inverter_layout.mag
+magic -T scmos InverterLay_Main_YK.mag
 
