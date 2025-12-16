@@ -67,7 +67,8 @@ Small-signal AC analysis is performed to evaluate the gain–frequency response 
 
 ### Optimized Gain–Frequency Response
 
-<img width="708" height="540" alt="image" src="https://github.com/user-attachments/assets/9d0205d9-5e1e-4a37-ab80-985e25f2b6d4" />
+<img width="948" height="696" alt="image" src="https://github.com/user-attachments/assets/5f03e5fb-fb11-405a-abef-30391a570064" />
+
 
 
 After tuning the following parameters:
