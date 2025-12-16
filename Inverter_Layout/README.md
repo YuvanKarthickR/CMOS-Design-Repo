@@ -20,7 +20,8 @@ The layout represents a basic CMOS inverter structure and is intended for **VLSI
 ## Layout Screenshot
 
 *(CMOS inverter layout screenshot captured using Magic)*  
-**Screenshot:** 2025-12-15 17:22:57
+<img width="1362" height="686" alt="image" src="https://github.com/user-attachments/assets/0e4cbc27-1e5d-4dc6-be27-5b1f6b276085" />
+
 
 ---
 
