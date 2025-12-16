@@ -1,4 +1,4 @@
-## Two-Stage CMOS Operational Amplifier  
+# Two-Stage CMOS Operational Amplifier  
 **SkyWater 130nm (Sky130A) | Xschem | NGSpice**
 
 ---
