@@ -1,4 +1,4 @@
-## Telescopic CMOS Operational Amplifier  
+# Telescopic CMOS Operational Amplifier  
 **SkyWater 130nm (Sky130A) | Xschem | NGSpice**
 
 ---
