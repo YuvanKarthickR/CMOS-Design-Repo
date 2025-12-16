@@ -63,6 +63,9 @@ The following analyses were performed using **NGSpice**:
 ```spice
 .ac dec 100 1 1e7
 ```
+## Schematic 
+
+<img width="1614" height="751" alt="image" src="https://github.com/user-attachments/assets/72b9d910-3e5d-429d-b3c6-5c6fb948c88b" />
 
 ## Simulation Results
 
@@ -103,7 +106,12 @@ The amplifier exhibits good stability characteristics due to proper Miller compe
 ## Waveforms & Plots
 
 - Bode magnitude plot (Gain vs Frequency)  
-- Bode phase plot (Phase vs Frequency)  
+ 
+<img width="938" height="684" alt="image" src="https://github.com/user-attachments/assets/bed83723-8abf-46b5-a181-489f535437f0" />
+
+- Bode phase plot (Phase vs Frequency) 
+
+<img width="940" height="688" alt="image" src="https://github.com/user-attachments/assets/ef44675a-d6d5-4891-87cc-41ed4934d8cd" />
 
 *(Plots obtained from NGSpice AC analysis)*
 
